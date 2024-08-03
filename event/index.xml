@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datasets | Öner Yigit</title>
-    <link>http://localhost:4321/oneryigit.com/event/</link>
-      <atom:link href="http://localhost:4321/oneryigit.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/event/</link>
+      <atom:link href="http://localhost:4321/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Datasets</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/oneryigit.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Datasets</title>
-      <link>http://localhost:4321/oneryigit.com/event/</link>
+      <link>http://localhost:4321/event/</link>
     </image>
     
     <item>
       <title>Communal Violence Event Database</title>
-      <link>http://localhost:4321/oneryigit.com/talk/communal-violence-event-database/</link>
+      <link>http://localhost:4321/talk/communal-violence-event-database/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/oneryigit.com/talk/communal-violence-event-database/</guid>
+      <guid>http://localhost:4321/talk/communal-violence-event-database/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -38,9 +38,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>State Minority Policies Database (SMP)</title>
-      <link>http://localhost:4321/oneryigit.com/talk/state-minority-policies-database-smp/</link>
+      <link>http://localhost:4321/talk/state-minority-policies-database-smp/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/oneryigit.com/talk/state-minority-policies-database-smp/</guid>
+      <guid>http://localhost:4321/talk/state-minority-policies-database-smp/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -62,9 +62,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>Friday Sermons Texts in Turkey</title>
-      <link>http://localhost:4321/oneryigit.com/talk/friday-sermons-texts-in-turkey/</link>
+      <link>http://localhost:4321/talk/friday-sermons-texts-in-turkey/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/oneryigit.com/talk/friday-sermons-texts-in-turkey/</guid>
+      <guid>http://localhost:4321/talk/friday-sermons-texts-in-turkey/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
