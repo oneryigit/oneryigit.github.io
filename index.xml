@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Öner Yigit</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/www.oneryigit.com/</link>
+      <atom:link href="http://localhost:4321/www.oneryigit.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Öner Yigit</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/www.oneryigit.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Öner Yigit</title>
-      <link>http://localhost:4321/</link>
+      <link>http://localhost:4321/www.oneryigit.com/</link>
     </image>
     
     <item>
       <title>Boosting and curbing nationalism Instrumentalization of religion in ethnic conflict in Turkey [working paper]</title>
-      <link>http://localhost:4321/publication/preprint/</link>
+      <link>http://localhost:4321/www.oneryigit.com/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/preprint/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/publication/preprint/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -32,9 +32,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Conflict Exposure and support for group rights [working paper]</title>
-      <link>http://localhost:4321/publication/preprint2/</link>
+      <link>http://localhost:4321/www.oneryigit.com/publication/preprint2/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/preprint2/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/publication/preprint2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -50,9 +50,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Communal Violence Event Database</title>
-      <link>http://localhost:4321/talk/communal-violence-event-database/</link>
+      <link>http://localhost:4321/www.oneryigit.com/talk/communal-violence-event-database/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/communal-violence-event-database/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/talk/communal-violence-event-database/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -74,9 +74,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>http://localhost:4321/post/blog-with-jupyter/</link>
+      <link>http://localhost:4321/www.oneryigit.com/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -98,10 +98,10 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:4321/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               /www.oneryigit.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
+               /www.oneryigit.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
+               /www.oneryigit.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:4321/www.oneryigit.com/www.oneryigit.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -121,9 +121,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>State Minority Policies Database (SMP)</title>
-      <link>http://localhost:4321/talk/state-minority-policies-database-smp/</link>
+      <link>http://localhost:4321/www.oneryigit.com/talk/state-minority-policies-database-smp/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/state-minority-policies-database-smp/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/talk/state-minority-policies-database-smp/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -145,9 +145,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>Kin state, national minorities and nationalizing states [working paper]</title>
-      <link>http://localhost:4321/publication/preprint4/</link>
+      <link>http://localhost:4321/www.oneryigit.com/publication/preprint4/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/preprint4/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/publication/preprint4/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -163,9 +163,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Friday Sermons Texts in Turkey</title>
-      <link>http://localhost:4321/talk/friday-sermons-texts-in-turkey/</link>
+      <link>http://localhost:4321/www.oneryigit.com/talk/friday-sermons-texts-in-turkey/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/friday-sermons-texts-in-turkey/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/talk/friday-sermons-texts-in-turkey/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -187,9 +187,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>Conditional effect of foreign aid and government treatment of religious minorities in the Middle East [working paper]</title>
-      <link>http://localhost:4321/publication/preprint5/</link>
+      <link>http://localhost:4321/www.oneryigit.com/publication/preprint5/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/preprint5/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/publication/preprint5/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -205,9 +205,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Nationalization of the religious sphere and political violence perpetrated by religious actors [working paper]</title>
-      <link>http://localhost:4321/publication/preprint3/</link>
+      <link>http://localhost:4321/www.oneryigit.com/publication/preprint3/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/preprint3/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/publication/preprint3/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -223,9 +223,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:4321/post/getting-started/</link>
+      <link>http://localhost:4321/www.oneryigit.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/getting-started/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -303,9 +303,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
+      <link>http://localhost:4321/www.oneryigit.com/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -336,7 +336,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;http://localhost:4321/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://localhost:4321/www.oneryigit.com/www.oneryigit.com/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -344,9 +344,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>http://localhost:4321/post/writing-technical-content/</link>
+      <link>http://localhost:4321/www.oneryigit.com/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/writing-technical-content/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -446,7 +446,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-793286541&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-193678542&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -456,7 +456,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-793286541&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-193678542&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -739,9 +739,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:4321/slides/example/</link>
+      <link>http://localhost:4321/www.oneryigit.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/slides/example/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -864,17 +864,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>Python Course Materials</title>
-      <link>http://localhost:4321/project/external-project/</link>
+      <link>http://localhost:4321/www.oneryigit.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/external-project/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:4321/project/example/</link>
+      <link>http://localhost:4321/www.oneryigit.com/project/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/example/</guid>
+      <guid>http://localhost:4321/www.oneryigit.com/project/example/</guid>
       <description>&lt;!-- ---
 date: &#34;2016-04-27T00:00:00Z&#34;
 external_link: &#34;&#34;
